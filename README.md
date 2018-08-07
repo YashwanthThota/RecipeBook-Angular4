@@ -15,11 +15,13 @@
 **TECHNICAL FEATURES:**
    - The application interface renders depending upon the device screen(mobile or web)
    - Used **Bootstrap** for making the application device screen independent 
+   - Used **ExpressJS** for building web application
    - Used **google firebase services** for handling authentication, validation and storing data in the database
    - Hosted this application in **Heroku  cloud services**
  
 **LIBRARIES AND PACKAGES:**
  - **Bootstrap:** this is used for setting up of application theme and makes the application responsive based on the device screen
+ - **Express:** it is a web application framework that provides you with a simple API to build websites, web apps and back ends
  - **firebase:** used for setting up of the google firebase services
  
 **DEMO LINK(HOSTED IN HEROKU):**
