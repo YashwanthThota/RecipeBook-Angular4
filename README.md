@@ -16,12 +16,12 @@
    - The application interface renders depending upon the device screen(mobile or web)
    - Used **Bootstrap** for making the application device screen independent 
    - Used **google firebase services** for handling authentication, validation and storing data in the database
-   - Hosted this application in **Amazon web services**
+   - Hosted this application in **Heroku  cloud services**
  
 **LIBRARIES AND PACKAGES:**
  - **Bootstrap:** this is used for setting up of application theme and makes the application responsive based on the device screen
  - **firebase:** used for setting up of the google firebase services
  
 **DEMO LINK(HOSTED IN HEROKU):**
- (http://home-recipe-app-deployment.s3-website.us-east-2.amazonaws.com/)
+ (https://evening-citadel-84682.herokuapp.com/)
 
