@@ -9,7 +9,7 @@
 **FEATURES:**
   - In order to use this application's services, the user has to sign up with this application.
   - Enabled Validation to check whether the entered emailid and password are valid or not.
-  - All the user and Recipe book information is stored in the Database.
+  - All the user and Recipe book information is stored in Google Firebase NoSQL Database.
   - The recipe image can be fetched by using image link
 
 **TECHNICAL FEATURES:**
