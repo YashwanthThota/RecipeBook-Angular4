@@ -14,6 +14,7 @@
 
 **TECHNICAL FEATURES:**
    - The application interface renders depending upon the device screen(mobile or web)
+   - The data from the db is sent in **JSON** format.
    - Used **Bootstrap** for making the application device screen independent 
    - Used **ExpressJS** for building web application
    - Used **google firebase services** for handling authentication, validation and storing data in the database
